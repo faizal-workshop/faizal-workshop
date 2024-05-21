@@ -1,4 +1,5 @@
 # Faizal's Workshop
+[![Foo](https://komarev.com/ghpvc/?username=faizal-workshop&color=orange&label=Profile+Views)]()
 
 ## Purpose
 This profile is dedicated to showcasing example projects. The repositories 

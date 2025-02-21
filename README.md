@@ -1,5 +1,6 @@
 # Faizal's Workshop
-[![Foo](https://komarev.com/ghpvc/?username=faizal-workshop&color=orange&label=Profile+Views)]()
+<a href="https://github.com/faizal-workshop"><img src="https://komarev.com/ghpvc/?username=faizal-workshop&color=orange&label=Profile+Views" height="20" /></a>
+<a href="https://github.com/faizal-workshop"><img src="https://img.shields.io/github/followers/faizal-workshop?label=Follow+Me&style=social" height="20" /></a>
 
 ## Purpose
 This profile is dedicated to showcasing example projects. The repositories 
